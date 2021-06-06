@@ -1,0 +1,12 @@
+{
+  "name": "challenge01",
+  "displayName": "challenge01",
+  "expo": {
+    "name": "challenge01",
+    "slug": "challenge01",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
