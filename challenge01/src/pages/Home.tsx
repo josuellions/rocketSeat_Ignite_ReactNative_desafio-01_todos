@@ -36,7 +36,7 @@ export function Home() {
     //TODO - mark task as done if exists
     const UpTasks = tasks.map((task) => {
       if(task.id === id) {
-        task.done = true;
+        task.done = !task.done;
       }
       return task
     });
