@@ -30,7 +30,8 @@ export function TodoInput({ addTask }: TodoInputProps) {
         placeholder="Adicionar novo todo..."
         returnKeyType="send"
         //TODO - use value, onChangeText and onSubmitEditing props
-        onChangeText={setTask}  value={task}
+        value={task}
+        onChangeText={setTask}  
         onSubmitEditing={submitEditing}
       />
       <TouchableOpacity

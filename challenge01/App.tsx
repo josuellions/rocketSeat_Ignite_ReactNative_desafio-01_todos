@@ -1,14 +1,16 @@
 import React from 'react';
-import { StyleSheet, View, Text } from 'react-native';
+import { StyleSheet } from 'react-native';
 import { StatusBar } from 'react-native';
 import { Home } from './src/pages/Home';
 
 export default function App() {
   return (
     <>
-      {/* <View style={styles.Container}>
-        <Text>Hello Word</Text>
-      </View> */}
+      <StatusBar 
+        backgroundColor="transparent" 
+        translucent 
+        barStyle="light-content" 
+      />
        <Home /> 
     </>
   );
