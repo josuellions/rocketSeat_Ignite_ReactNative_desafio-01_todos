@@ -1,22 +1,41 @@
 # RocketSeat Ignite ReactNative - desafio-01 - TODOS
 
-# Clonar Repositorio
+## 💻 Projeto
 
-## Pelo terminal
+Adicionar novas tarefas (task), listar as tarefas, marcar tarefa, remover tarefa,
+validação para não permitir adicionar tarefas em branco.
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## Clonar Repositorio
+
+### Pelo terminal
 
 git clone https://github.com/josuellions/rocketSeat_Ignite_ReactNative_desafio-01_todos.git
 
-## Download - Zip
+### Download - Zip
 
 - Realizar downloa em um diretorio loca, descompactar, abrir em um Editor(IDE) de sua preferencia
 
-## Atualizar pacotes
+### Atualizar pacotes
 
 - no terminal dentro do diretório do projeto "challenge01"
 
 ### Excutar o comando
 
 - yarn
+
+## Link Configuração ambiente
+
+- link: https://react-native.rocketseat.dev/
 
 ## Ambiente de emulador (Para rodar o projeto via emulador)
 
@@ -29,6 +48,7 @@ git clone https://github.com/josuellions/rocketSeat_Ignite_ReactNative_desafio-0
 ## Configuração de Ambiente
 
 - Yarn
+  -link: https://classic.yarnpkg.com/en/docs/install/
 
 ## Executar terminal - 01
 
