@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Ambiente de emulador deve estar previamente configurado
 
-## Ambiente dipositivo fisico (para rodar projeto no smartphone - android)
+## Ambiente dipositivo fisico (para rodar projeto no smartphone)
 
 - Dispositivo deve estar conectado via USB ou Rede Wi-Fi
 
